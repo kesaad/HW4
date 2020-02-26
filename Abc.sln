@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Infra", "Infra\Abc.Infr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Pages", "Pages\Abc.Pages.csproj", "{B4F10B08-DE6E-4843-985E-556DA7CE81FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Soft", "Soft\Abc.Soft.csproj", "{6811F84F-6558-4C7D-91B7-D577F18C305F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abc.Soft", "Soft\Abc.Soft.csproj", "{3BACFA51-FCB8-4835-85A8-402A607C2DA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +39,9 @@ Global
 		{B4F10B08-DE6E-4843-985E-556DA7CE81FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F10B08-DE6E-4843-985E-556DA7CE81FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F10B08-DE6E-4843-985E-556DA7CE81FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6811F84F-6558-4C7D-91B7-D577F18C305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6811F84F-6558-4C7D-91B7-D577F18C305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6811F84F-6558-4C7D-91B7-D577F18C305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6811F84F-6558-4C7D-91B7-D577F18C305F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BACFA51-FCB8-4835-85A8-402A607C2DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BACFA51-FCB8-4835-85A8-402A607C2DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BACFA51-FCB8-4835-85A8-402A607C2DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BACFA51-FCB8-4835-85A8-402A607C2DA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
